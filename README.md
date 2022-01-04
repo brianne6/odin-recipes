@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Odin recipes</title>
+   Odin Recipes
     <meta charset="UTF-8">
   </head>
 
